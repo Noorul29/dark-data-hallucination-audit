@@ -1,0 +1,17 @@
+DATA HEALTH & RECONCILIATION LOG
+==================================
+future_timestamps          12/12 detected, 0 false positive(s)
+negative_inventory         6/6 detected, 0 false positive(s)
+report_mismatch_months     3/3 detected, 0 false positive(s)
+interpolated_month         1/1 detected (flagged by revenue check: yes)
+overforecast_products      8/8 detected, 0 false positive(s)
+schema_drift_files         5/5 detected, 0 false positive(s)
+high_null_files            3/3 detected, 0 false positive(s)
+----------------------------------
+TOTAL planted issues: 38
+TOTAL detected:       38
+TOTAL false positives: 0
+Detection rate:       100.0%
+
+Revenue months off by more than 3%: 2026-02 (+8.0%), 2026-04 (-9.7%), 2026-05 (-12.0%), 2026-07 (+25.0%)
+Dark files cataloged: 48 | rows profiled: 8,443

@@ -1,0 +1,52 @@
+{
+  "future_timestamps": [
+    1158,
+    2835,
+    1792,
+    2906,
+    2459,
+    847,
+    835,
+    2959,
+    970,
+    1404,
+    2953,
+    1711
+  ],
+  "negative_inventory": [
+    35,
+    60,
+    1,
+    10,
+    26,
+    21
+  ],
+  "report_mismatch_months": [
+    "2026-02",
+    "2026-05",
+    "2026-07"
+  ],
+  "interpolated_month": "2026-04",
+  "overforecast_products": [
+    17,
+    18,
+    21,
+    29,
+    46,
+    52,
+    54,
+    58
+  ],
+  "schema_drift_files": [
+    "clicks_20260101.jsonl",
+    "clicks_20260226.jsonl",
+    "clicks_20260423.jsonl",
+    "clicks_20260618.jsonl",
+    "clicks_20260813.jsonl"
+  ],
+  "high_null_files": [
+    "clicks_20260125.jsonl",
+    "clicks_20260415.jsonl",
+    "clicks_20260704.jsonl"
+  ]
+}

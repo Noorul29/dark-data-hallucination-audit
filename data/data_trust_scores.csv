@@ -1,0 +1,6 @@
+kpi,completeness,consistency,freshness,days_since_update,trust_score,trust_level
+Monthly Revenue Report,100.0,55.6,100.0,0,85.2,Medium
+Order Transactions,99.6,100.0,66.7,10,88.8,Medium
+Inventory Stock Levels,100.0,90.0,100.0,0,96.7,High
+Inventory Forecast,100.0,86.7,100.0,0,95.6,High
+Clickstream Logs (dark data),93.2,83.3,0.0,50,58.8,Low
